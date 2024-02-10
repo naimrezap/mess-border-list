@@ -1,28 +1,28 @@
 const members = [
     {
-        name: "Nazmul",
-        phone: "090000",
-        address: "Rajshahi"
+        name: "নাজমুল",
+        phone: "01737939087",
+        address: "রাজশাহী" 
     },
     {
-        name: "Mijan",
-        phone: "090000",
-        address: "Rajshahi"
+        name: "মিজান",
+        phone: "01740017938",  
+        address: "মানিকগঞ্জ"
     },
     {
-        name: "Nasir",
-        phone: "090000",
-        address: "Rajshahi"
+        name: "নাসির",
+        phone: "01724502625", 
+        address: "টাঙ্গাইল"  
     },
     {
-        name: "Sumon",
-        phone: "090000",
-        address: "Rajshahi"
+        name: "সুমন", 
+        phone: "01773763427",
+        address: "দিনাজপুর"
     },
     {
-        name: "Mojnu",
+        name: "মজনু",
         phone: "017262433",
-        address: "Kurigram"
+        address: "কুড়িগ্রাম" 
         
     }
 ]
